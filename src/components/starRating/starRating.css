@@ -1,0 +1,12 @@
+.star {
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.blackStar {
+  color: black;
+}
+
+.yellowStar {
+  color: yellow;
+}
