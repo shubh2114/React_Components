@@ -1,10 +1,9 @@
-import { files } from "./components/treeStructure/appData";
-import TreeStructure from "./components/treeStructure/treeStructure";
+import DragAndDrop from "./components/dragAndDrop/dragAndDrop";
 
 function App() {
   return (
     <div className="App">
-      <TreeStructure files={files} />
+      <DragAndDrop />
     </div>
   );
 }

@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.taskSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  margin-top: 20px;
+}
+
+.todo {
+  height: 300px;
+  width: 150px;
+  background-color: aliceblue;
+}
+
+.done {
+  height: 300px;
+  width: 150px;
+  background-color: aliceblue;
+}
+
+.doing {
+  height: 300px;
+  width: 150px;
+  background-color: aliceblue;
+}
+.todoHeading {
+  background-color: rgb(172, 240, 240);
+  width: 150px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.doneHeading {
+  background-color: rgb(157, 246, 216);
+  width: 150px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.doingHeading {
+  background-color: rgb(240, 223, 202);
+  width: 150px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
