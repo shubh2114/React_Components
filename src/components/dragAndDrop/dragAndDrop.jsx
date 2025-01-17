@@ -3,7 +3,7 @@ import "./dragAndDrop.css";
 
 // things we need to learn
 // 1. for drag and drop we need to use onDrag, onDrop, onDragOver and draggable
-// 2. onDrap and draggable is used on the component which we want to drag i.e child component
+// 2. onDrag and draggable is used on the component which we want to drag i.e child component
 // 3. onDrag gives us the element we are dragging
 // 4. onDrop and onDragOver is used on the parent component where we want to drop the child component
 // 5. onDrop gives us the element where we are dropping the child component
